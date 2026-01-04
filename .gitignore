@@ -1,0 +1,21 @@
+# Python virtual environment
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# ML / NLP models (VERY IMPORTANT)
+models/
+*.bin
+*.mod
+*.rar
+*.zip
+
+# Uploads
+uploads/
+
+# OS files
+.DS_Store
+git add qa_engine.py
